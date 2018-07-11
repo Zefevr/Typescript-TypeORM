@@ -1,4 +1,4 @@
-![typescript icon](https://github.com/Zefevr/Typescript-TypeORM/blob/master/dev-icons/TypeORM.xcf)
+![typeORM icon](https://github.com/Zefevr/Typescript-TypeORM/blob/master/dev-icons/TypeORM.png)
 
 Advance Bootcamp project of typescritp and REST-API for Codaisseur.
 
