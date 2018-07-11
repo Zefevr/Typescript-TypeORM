@@ -4,7 +4,8 @@
 ## Typescritp-TypeORM and REST-API:
 > Assigment made for Codaisseur
 
-Goals of this project:
+
+#### Goals of this project:
 
 1. Get more familiar with TypeScript.
 2. Learn about decorators in TypeScript and how they can help you.
