@@ -1,6 +1,7 @@
+![typescript icon](https://github.com/Zefevr/Typescript-TypeORM/blob/master/dev-icons/Typescript_logo.png)
 ![typeORM icon](https://github.com/Zefevr/Typescript-TypeORM/blob/master/dev-icons/TypeORM.png)
 
-Advance Bootcamp project of typescritp and REST-API for Codaisseur.
+##Typescritp-TypeORM and REST-API for Codaisseur.
 
 Goals of this project:
 
