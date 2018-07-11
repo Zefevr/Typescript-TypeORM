@@ -1,3 +1,5 @@
+![typescript icon](https://github.com/Zefevr/Typescript-TypeORM/blob/master/dev-icons/TypeORM.png)
+
 Advance Bootcamp project of typescritp and REST-API for Codaisseur.
 
 Goals of this project:
@@ -7,6 +9,3 @@ Goals of this project:
 3. Explore Routing-controllers, TypeORM and class-validator and see how they can make certain tasks easier.
 4. Authorization and authentication
 
-Typescript-TypeORM-class-validator
-
-TypeScript with routing controllers,TypeORM, class-validaton and authoritaitions
